@@ -1,0 +1,10 @@
+---- AddCarriage Matches (9 in 1 files) ----
+FoodOrder.c (application\src):void AddCarriage(char *buff, unsigned char NumPerLine)
+FoodOrder.c (application\src):				AddCarriage(buff,31);
+FoodOrder.c (application\src):					AddCarriage(buff,31);
+FoodOrder.c (application\src):	AddCarriage(buff,32);
+FoodOrder.c (application\src):	AddCarriage(buff,32);
+FoodOrder.c (application\src):	AddCarriage(buff,32);
+FoodOrder.c (application\src):		AddCarriage(CustomerComments,32);
+FoodOrder.c (application\src):	//AddCarriage((char *)temp,32);
+FoodOrder.c (application\src):	AddCarriage((char*)temp,32);
